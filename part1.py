@@ -7,7 +7,7 @@ print("=== Python Basic Types Demonstration ===")
 
 # String type
 name = input("Enter your name: ")
-greeting = "Hello, " + name + "! Welcome to Python."
+greeting = "Helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, " + name + "! Welcome to Python."
 
 # Integer type
 age = int(input("Enter your age: "))
